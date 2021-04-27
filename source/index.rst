@@ -10,12 +10,8 @@ Welcome to zy_jokes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
-   install
-   start
-   roadnet
-   flow
-   replay
+   jokes_from_jeff
+   jokes_for_physics
 
 Indices and tables
 ==================
