@@ -11,5 +11,5 @@ Welcome to zy_jokes's documentation!
    :caption: Contents:
 
    jokes_from_jeff
-   jokes_for_physics
+   jokes_for_131
 
