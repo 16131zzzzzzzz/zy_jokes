@@ -13,9 +13,3 @@ Welcome to zy_jokes's documentation!
    jokes_from_jeff
    jokes_for_physics
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
